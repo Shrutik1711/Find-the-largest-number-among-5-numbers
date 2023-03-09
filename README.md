@@ -1,1 +1,1 @@
-# Find-the-largest-number-among-5-numbers
+# Find the largest number among 5 numbers
